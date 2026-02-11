@@ -9,7 +9,7 @@ URL = "https://lk.msu.ru/course/view?id=4098"
 CHECK_EVERY = 5
 
 BOT_TOKEN = "7690125049:AAHnSghqS5kxSmsR35M6Hdq0EVUmAVmmv2U"
-CHAT_ID = 1759475837
+CHAT_ID = 5165667315
 
 PAT = re.compile(r"(\d+)\s*/\s*(\d+)")
 
