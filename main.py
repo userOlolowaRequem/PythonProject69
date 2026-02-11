@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import asyncio
 from telegram import Bot
 
-URL = "https://lk.msu.ru/course/view?id=4098"
+URL = "https://lk.msu.ru/course/view?id=4166"
 CHECK_EVERY = 5
 
 BOT_TOKEN = "7690125049:AAHnSghqS5kxSmsR35M6Hdq0EVUmAVmmv2U"
